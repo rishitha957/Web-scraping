@@ -1,0 +1,346 @@
+1559281400389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rishi\\AppData\\Local\\Temp\\rust_mozprofile.8PxJk6Nrvq4K"
+1559281405540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559281405558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559281405558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 22224, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1559281424045	Marionette	INFO	Listening on port 51755
+1559281426155	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent [C22224, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ihilpc/chrod 1660, Chrome_ChildTmium/hsrc/chrome/common/ipc_channel_read] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+win.cc, line 341
+[[Child 21480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21480, Chrome_C[Parent 22224, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17136, Ch1559281607418	Marionette	INFO	Stopped listening on port 51755
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1559281613749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rishi\\AppData\\Local\\Temp\\rust_mozprofile.WKGj9rd1iRFd"
+1559281615504	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559281615505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559281615505	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x360059,name=PContent::Msg_ProvideAnonymousTemporaryFile) Closed channel: cannot send/recv
+
+1559281624121	Marionette	INFO	Listening on port 52079
+1559281624237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 18464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 18464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20092, Ch1559288125100	Marionette	INFO	Stopped listening on port 52079
+lback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 23440, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 23440, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2061[Parent 23440, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1559288118961	Marionette	INFO	Stopped listening on port 55037
+ding manifest: Invalid extension permission: about:reader*
+1559286413862	Marionette	INFO	Listening on port 57897
+[Child 22392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1559286414364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/col1559287041351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559287041352	addons.webexte[Parent 8880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12264, Chrome_ChildThread] WARNING: pipe erro[Parent 8880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromi1559288108951	Marionette	INFO	Stopped listening on port 57897
+/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 14224, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18460, Chrome1559288117583	Marionette	INFO	Stopped listening on port 58857
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559288047734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 22188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1559288053047	Marionette	INFO	Listening on port 60146
+1559288053182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Child 21848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21848, Chrome_ChildThread] WARNING: pipe error: 109:[Child 20364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Parent 22188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/ch1559288118550	Marionette	INFO	Stopped listening on port 60146
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1559309111255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rishi\\AppData\\Local\\Temp\\rust_mozprofile.zP8m82eXbQlD"
+1559309114238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559309114239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559309114239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559309118994	Marionette	INFO	Listening on port 54875
+1559309119305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 20332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23932, Chrome_ChildThread[Parent 20332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Child 16136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1559309245252	Marionette	INFO	Stopped listening on port 54875
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 202
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1559309252531	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rishi\\AppData\\Local\\Temp\\rust_mozprofile.vldi45gbi8G5"
+1559309253326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559309253326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559309253326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559309257809	Marionette	INFO	Listening on port 55072
+1559309257987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 9952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9952, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22368, Chrome_Chil1559309314781	Marionette	INFO	Stopped listening on port 55072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1559309336678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rishi\\AppData\\Local\\Temp\\rust_mozprofile.eSBXvRM4QIbV"
+1559309337378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559309337378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559309337378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559309342790	Marionette	INFO	Listening on port 55205
+1559309343244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Child 23088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Child 9280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 92[Parent 2512, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1559309881937	Marionette	INFO	Stopped listening on port 55205
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1559309995978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rishi\\AppData\\Local\\Temp\\rust_mozprofile.MOLuIynEGGAh"
+1559309996562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559309996562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559309996562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559310000611	Marionette	INFO	Listening on port 55987
+1559310000953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 9868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14316, Chrome_ChildTh[Child 13424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9868, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21384, Chr1559311072706	Marionette	INFO	Stopped listening on port 55987
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+[Parent 3028, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.[cCc, line 3hild 22560, Chrome_ChildThread] WAR4NING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_w1i
+n.cc, line 341
+[Child 1872, Chrome_ChildThread] WARNING: pipe[Child 22560, Chrome_ChildT error: 109: file z:/task_1558035249/hbread] WARNING: pipe error: 109: file z:/task_1558035249/bu1559311075792	Marionette	INFO	Stopped listening on port 56765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 24
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ line 341
+[Child 22128, Chrome_ChildThread] WARNING: pipe error: 1091559310934569	Marionette	INFO	Listening on port 57002
+1559310934835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Child 22440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22440, Chrome_ChildThread] WARNING: pipe error: 109: 1559311076775	Marionette	INFO	Stopped listening on port 57002
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1559311286715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rishi\\AppData\\Local\\Temp\\rust_mozprofile.B8hopoPMCBVl"
+1559311288273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559311288274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559311288274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559311293032	Marionette	INFO	Listening on port 57440
+1559311293269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 6412, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23464, Chrome_ChildThread] WARNING: pipe[Child 22848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 6412, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil1559311642941	Marionette	INFO	Stopped listening on port 57440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1559313936659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rishi\\AppData\\Local\\Temp\\rust_mozprofile.L80pdYX0JmZm"
+1559313937201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559313937202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559313937202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559313941339	Marionette	INFO	Listening on port 60070
+1559313941611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 30: TypeError: opts.callback[1] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 30: TypeError: opts.callback[1] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559260810623%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 30: TypeError: opts.callback[1] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 30: TypeError: opts.callback[1] is undefined
+JavaScript error: https://www.lifesavered.com/javascripts/lif/enrollware.js?1516829148, line 112: TypeError: opts.callback[0] is undefined
